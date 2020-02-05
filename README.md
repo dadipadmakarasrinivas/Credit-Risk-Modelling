@@ -30,3 +30,6 @@ jupyter notebook: $ sudo apt-get -y install ipython ipython-notebook
                   $ sudo -H pip install jupyter
 
 ``` 
+
+## Exploratory Data Analysis(EDA) : 
+![credit risk modelling data distribution](https://user-images.githubusercontent.com/22231946/73814427-0db39580-4809-11ea-9747-63f8b7caaaf5.PNG)
