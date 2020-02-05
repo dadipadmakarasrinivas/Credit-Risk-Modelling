@@ -32,4 +32,19 @@ jupyter notebook: $ sudo apt-get -y install ipython ipython-notebook
 ``` 
 
 ## Exploratory Data Analysis(EDA) : 
+
+- Data Distribution of Target Variable:
 ![credit risk modelling data distribution](https://user-images.githubusercontent.com/22231946/73814427-0db39580-4809-11ea-9747-63f8b7caaaf5.PNG)
+
+- Missing Values in Dataset : 
+![missingvaluesplot](https://user-images.githubusercontent.com/22231946/73814544-6c790f00-4809-11ea-85d2-29544e96437f.PNG)
+
+- Correlation Analysis:
+![correlation analysis](https://user-images.githubusercontent.com/22231946/73814643-af3ae700-4809-11ea-96ec-bcfe9a484091.PNG)
+
+- Outlier Detection:
+![outliers detection](https://user-images.githubusercontent.com/22231946/73814705-d8f40e00-4809-11ea-81f2-21e938f57f8c.PNG)
+
+## Feature Importance :
+![Feature Importance](https://user-images.githubusercontent.com/22231946/73814788-12c51480-480a-11ea-8ffd-266eec5537a0.PNG)
+
